@@ -26,7 +26,8 @@ import ViewLecture from './pages/ViewLecture'
 import SearchWithAi from './pages/SearchWithAi'
 import getAllReviews from './customHooks/getAllReviews'
 
-export const serverUrl = "https://edusphere-tcca.onrender.com"
+//export const serverUrl = "https://edusphere-tcca.onrender.com"
+export const serverUrl = "http://localhost:8000"
 
 function App() {
   
